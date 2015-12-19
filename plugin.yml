@@ -1,0 +1,7 @@
+main: me.thrisboss.HardcoreQuest.Main
+name: HardcoreQuest
+version: 1.0.0
+description: HardcoreQuest
+commands:
+    quete:
+    confirme:
